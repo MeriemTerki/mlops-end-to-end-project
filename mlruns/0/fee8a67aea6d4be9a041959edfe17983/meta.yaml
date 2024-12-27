@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mrmte/Documents/2CS_IASD/SEDS/mini-project/mlops-mlflow-project/mlops-end-to-end-project/mlruns/0/fee8a67aea6d4be9a041959edfe17983/artifacts
+end_time: 1735305988719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fee8a67aea6d4be9a041959edfe17983
+run_name: flawless-pug-981
+run_uuid: fee8a67aea6d4be9a041959edfe17983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735305979592
+status: 3
+tags: []
+user_id: mrmte

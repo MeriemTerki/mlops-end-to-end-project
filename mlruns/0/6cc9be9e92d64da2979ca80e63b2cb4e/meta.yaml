@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mrmte/Documents/2CS_IASD/SEDS/mini-project/mlops-mlflow-project/mlops-end-to-end-project/mlruns/0/6cc9be9e92d64da2979ca80e63b2cb4e/artifacts
+end_time: 1735317592458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cc9be9e92d64da2979ca80e63b2cb4e
+run_name: wise-robin-883
+run_uuid: 6cc9be9e92d64da2979ca80e63b2cb4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735317584125
+status: 3
+tags: []
+user_id: mrmte

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mrmte/Documents/2CS_IASD/SEDS/mini-project/mlops-mlflow-project/mlops-end-to-end-project/mlruns/0/ef96206447ee4500a86b5140e42dce6d/artifacts
+end_time: 1735318010329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef96206447ee4500a86b5140e42dce6d
+run_name: useful-panda-98
+run_uuid: ef96206447ee4500a86b5140e42dce6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735318000775
+status: 3
+tags: []
+user_id: mrmte
